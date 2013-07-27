@@ -10,7 +10,7 @@ class circle:
 		return gu.dist(self,p)
 	
 	
-	# --- Boring shit ---------------------------------------------------------
+	# --- Boring stuff ---------------------------------------------------------
 	
 	def __init__(self,c,r):
 		self.center = c
